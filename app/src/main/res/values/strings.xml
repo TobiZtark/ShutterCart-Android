@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ShutterCart</string>
+    <string name="app_tag_line">&#8230;one snap, money back</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_log_in">Log In</string>
+    <string name="hint_email_or_mobile">Email or Mobile</string>
+    <string name="text_forgot_password">Forgot Password</string>
+    <string name="text_new_to_shuttercart">New to ShutterCart?</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="app_register_tag_line">See for yourself why millions of people love using ShutterCart to get cash-back from store around Nigeria.</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="states_array">
+        <item>Abia</item>
+        <item>Adamawa</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
